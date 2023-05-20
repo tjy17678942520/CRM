@@ -5,7 +5,7 @@
 基于Spring， SpringMVC， Mybatis， JSP，MySQL实现的客户关系管理系统
 
 # 项目演示地址
-项目地址： http://8.130.130.119:8080/crm/workbench/ index.do
+项目地址： http://8.130.130.119:8080/crm/workbench/index.do
 
 
 
