@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="095be365-71bb-4ecc-917d-0b5e3eea2512" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/type/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/type/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/type/save.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/value/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/value/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/dictionary/value/save.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/permission/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/role/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/role/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/user/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/user/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/settings/qx/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/activity/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/activity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/chart/activity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/chart/clue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/chart/customerAndContacts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/chart/transaction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/clue/convert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/clue/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/clue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/contacts/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/contacts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/customer/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/customer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/transaction/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/transaction/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/transaction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/pages/workbench/transaction/save.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm_project/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/apache-maven-3.8.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LxTsufNV27qepkU8CCH0VOtZHX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showURL" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="095be365-71bb-4ecc-917d-0b5e3eea2512" name="Changes" comment="" />
+      <created>1676811947230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676811947230</updated>
+      <workItem from="1676811948779" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
